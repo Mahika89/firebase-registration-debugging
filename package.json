@@ -1,0 +1,9 @@
+{
+  "name": "firebase-registration-debugging",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone reproduction of an asynchronous registration race condition",
+  "scripts": {
+    "test": "node --test registration.test.js"
+  }
+}
